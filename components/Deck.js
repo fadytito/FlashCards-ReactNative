@@ -27,11 +27,11 @@ class Deck extends Component {
           <View style={styles.cardsLabel}>
             {questions.length !== 1 ? (
               <Text>
-                <Text style={styles.cardsNumber}>{questions.length}</Text> card
+                <Text style={styles.cardsNumber}>{questions.length}</Text> cards
               </Text>
             ) : (
               <Text>
-                <Text style={styles.cardsNumber}>{questions.length}</Text> cards
+                <Text style={styles.cardsNumber}>{questions.length}</Text> card
               </Text>
             )}
           </View>
