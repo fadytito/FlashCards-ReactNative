@@ -1,9 +1,9 @@
 {
-  "name": "UdaciFitness",
-  "displayName": "UdaciFitness",
+  "name": "FlashCards",
+  "displayName": "FlashCards",
   "expo": {
-    "name": "UdaciFitness",
-    "slug": "UdaciFitness",
+    "name": "FlashCards",
+    "slug": "FlashCards",
     "version": "1.0.0",
     "assetBundlePatterns": [
       "**/*"
